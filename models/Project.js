@@ -17,7 +17,7 @@ class Project extends Model {}
     // krsgskljgn
     // srklghrskg
 
-Manufacturer.init(
+Project.init(
   {
     id: {
       type: DataTypes.INTEGER,
