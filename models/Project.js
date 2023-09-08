@@ -3,7 +3,21 @@ const sequelize = require('../config/connection');
 
 class Project extends Model {}
 
-Project.init(
+// Table Name: cars 
+//   Make: Alpha Romeo (Drop down selected by user)
+//     Depreciation
+//     Maintenance
+//     Repairs
+//     Insurance
+//     Fuel
+    //Make: Mercedes
+    // Depreciation
+    // maintenance
+    // srklgjskgrd
+    // krsgskljgn
+    // srklghrskg
+
+Manufacturer.init(
   {
     id: {
       type: DataTypes.INTEGER,
@@ -11,20 +25,28 @@ Project.init(
       primaryKey: true,
       autoIncrement: true,
     },
-    name: {
+    manufacturerName: {
       type: DataTypes.STRING,
       allowNull: false,
     },
-    description: {
+    enginetype: {
       type: DataTypes.STRING,
+      // allowNull: false,
     },
-    date_created: {
-      type: DataTypes.DATE,
+    depreciation: {
+      type: DataTypes.INTEGER,
       allowNull: false,
-      defaultValue: DataTypes.NOW,
     },
-    needed_funding: {
-      type: DataTypes.FLOAT,
+    msrp: {
+      type: DataTypes.INTEGER,
+      // allowNull: false,
+    },
+    insurance: {
+      type: DataTypes.INTEGER,
+      allowNull: false,     
+    },
+    fuel: {
+      type: DataTypes.INTEGER,
       allowNull: false,
     },
     user_id: {
