@@ -1,17 +1,273 @@
 [
   {
-    "name": "Music Near Me",
-    "description": "A mobile app that will send you notifications whenever a concert is playing in your area.",
-    "needed_funding": 5000
+    "manufacturerName": "Ford",
+    "enginetype": null,
+    "depreciation": 13,
+    "msrp": null,
+    "insurance": null,
+    "fuel": [2000, 1200, 400],
+    "user_id": null
   },
   {
-    "name": "The Ultimate Tech Quiz",
-    "description": "A web app that will give users 10 new technical questions each day and track their progress in things like programming, cybersecurity, database architecture, and more!",
-    "needed_funding": 10000
+    "manufacturerName": "Chevrolet",
+    "enginetype": null,
+    "depreciation": 13,
+    "msrp": null,
+    "insurance": null,
+    "fuel": [2000, 1200, 400],
+    "user_id": null
   },
   {
-    "name": "Roll 'Em Up",
-    "description": "A game for Windows and macOS where players move a ball through a series of increasingly challenging mazes.",
-    "needed_funding": 800
+    "manufacturerName": "Dodge",
+    "enginetype": null,
+    "depreciation": 13,
+    "msrp": null,
+    "insurance": null,
+    "fuel": [2400, 1300, 400],
+    "user_id": null
+  },
+  {
+    "manufacturerName": "Jeep",
+    "enginetype": null,
+    "depreciation": 11,
+    "msrp": null,
+    "insurance": null,
+    "fuel": [2800, 1300, 500],
+    "user_id": null
+  },
+  {
+    "manufacturerName": "Chrysler",
+    "enginetype": null,
+    "depreciation": 13,
+    "msrp": null,
+    "insurance": null,
+    "fuel": [2000, 1200, 400],
+    "user_id": null
+  },
+  {
+    "manufacturerName": "Cadillac",
+    "enginetype": null,
+    "depreciation": 14,
+    "msrp": null,
+    "insurance": null,
+    "fuel": [2400, 1200, 400],
+    "user_id": null
+  },
+  {
+    "manufacturerName": "Buick",
+    "enginetype": null,
+    "depreciation": 14,
+    "msrp": null,
+    "insurance": null,
+    "fuel": [2000, 1200, 400],
+    "user_id": null
+  },
+  {
+    "manufacturerName": "GMC",
+    "enginetype": null,
+    "depreciation": 13,
+    "msrp": null,
+    "insurance": [2500, 1300, 450],
+    "fuel": 25,
+    "user_id": null
+  },
+  {
+    "manufacturerName": "Tesla",
+    "enginetype": null,
+    "depreciation": 10,
+    "msrp": null,
+    "insurance": [2000, 1200, 400],
+    "fuel": 25,
+    "user_id": null
+  },
+  {
+    "manufacturerName": "Ram",
+    "enginetype": null,
+    "depreciation": 13,
+    "msrp": null,
+    "insurance": null,
+    "fuel": [3500, 1800, 550],
+    "user_id": null
+  },
+  {
+    "manufacturerName": "Lincoln",
+    "enginetype": null,
+    "depreciation": 14,
+    "msrp": null,
+    "insurance": null,
+    "fuel": [2900, 1350, 500],
+    "user_id": null
+  },
+  {
+    "manufacturerName": "Fisker",
+    "enginetype": null,
+    "depreciation": 15,
+    "msrp": null,
+    "insurance": null,
+    "fuel": [2000, 1200, 400],
+    "user_id": null
+  },
+  {
+    "manufacturerName": "Lucid Motors",
+    "enginetype": null,
+    "depreciation": 14,
+    "msrp": null,
+    "insurance": null,
+    "fuel": [2000, 1200, 400],
+    "user_id": null
+  },
+  {
+    "manufacturerName": "Rivian",
+    "enginetype": null,
+    "depreciation": 12,
+    "msrp": null,
+    "insurance": null,
+    "fuel": [2000, 1200, 400],
+    "user_id": null
+  },
+  {
+    "manufacturerName": "Karma Automotive",
+    "enginetype": null,
+    "depreciation": 15,
+    "msrp": null,
+    "insurance": null,
+    "fuel": [400, 400, 400],
+    "user_id": null
+  },
+  {
+    "manufacturerName": "Toyota",
+    "enginetype": null,
+    "depreciation": 13,
+    "msrp": null,
+    "insurance": null,
+    "fuel": [2000, 1200, 400],
+    "user_id": null
+  },
+  {
+    "manufacturerName": "Honda",
+    "enginetype": null,
+    "depreciation": 13,
+    "msrp": null,
+    "insurance": null,
+    "fuel": [1900, 1100, 400],
+    "user_id": null
+  },
+  {
+    "manufacturerName": "Nissan",
+    "enginetype": null,
+    "depreciation": 13,
+    "msrp": null,
+    "insurance": null,
+    "fuel": [2000, 1200, 400],
+    "user_id": null
+  },
+  {
+    "manufacturerName": "Volkswagen",
+    "enginetype": null,
+    "depreciation": 14,
+    "msrp": null,
+    "insurance": null,
+    "fuel": [2000, 1200, 400],
+    "user_id": null
+  },
+  {
+    "manufacturerName": "BMW",
+    "enginetype": null,
+    "depreciation": 14,
+    "msrp": null,
+    "insurance": null,
+    "fuel": [2500, 1300, 400],
+    "user_id": null
+  },
+  {
+    "manufacturerName": "Mercedes-Benz",
+    "enginetype": null,
+    "depreciation": 14,
+    "msrp": null,
+    "insurance": null,
+    "fuel": [2500, 1300, 400],
+    "user_id": null
+  },
+  {
+    "manufacturerName": "Hyundai",
+    "enginetype": null,
+    "depreciation": 14,
+    "msrp": null,
+    "insurance": null,
+    "fuel": [2000, 1200, 400],
+    "user_id": null
+  },
+  {
+    "manufacturerName": "Kia",
+    "enginetype": null,
+    "depreciation": 14,
+    "msrp": null,
+    "insurance": null,
+    "fuel": [2000, 1200, 400],
+    "user_id": null
+  },
+  {
+    "manufacturerName": "Subaru",
+    "enginetype": null,
+    "depreciation": 13,
+    "msrp": null,
+    "insurance": null,
+    "fuel": [2000, 1200, 400],
+    "user_id": null
+  },
+  {
+    "manufacturerName": "Mazda",
+    "enginetype": null,
+    "depreciation": 13,
+    "msrp": null,
+    "insurance": null,
+    "fuel": [2000, 1200, 400],
+    "user_id": null
+  },
+  {
+    "manufacturerName": "Audi",
+    "enginetype": null,
+    "depreciation": 14,
+    "msrp": null,
+    "insurance": null,
+    "fuel": [2500, 1300, 400],
+    "user_id": null
+  },
+  {
+    "manufacturerName": "Volvo",
+    "enginetype": null,
+    "depreciation": 14,
+    "msrp": null,
+    "insurance": null,
+    "fuel": [2200, 1300, 400],
+    "user_id": null
+  },
+  {
+    "manufacturerName": "Lexus",
+    "enginetype": null,
+    "depreciation": 12,
+    "msrp": null,
+    "insurance": null,
+    "fuel": [2400, 1300, 400],
+    "user_id": null
+  },
+  {
+    "manufacturerName": "Mitsubishi",
+    "enginetype": null,
+    "depreciation": 13,
+    "msrp": null,
+    "insurance": null,
+    "fuel": [2000, 1200, 400],
+    "user_id": null
+  },
+  {
+    "manufacturerName": "Mini",
+    "enginetype": null,
+    "depreciation": 13,
+    "msrp": null,
+    "insurance": null,
+    "fuel": [1800, 1100, 400],
+    "user_id": null
   }
+
 ]
