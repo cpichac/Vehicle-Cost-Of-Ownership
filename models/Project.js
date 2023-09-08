@@ -43,7 +43,7 @@ Manufacturer.init(
     },
     insurance: {
       type: DataTypes.INTEGER,
-      allowNull: false,     
+      // allowNull: false,     
     },
     fuel: {
       type: DataTypes.INTEGER,
