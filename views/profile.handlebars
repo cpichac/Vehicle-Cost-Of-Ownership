@@ -1,76 +1,63 @@
-    
-    <div class="row"> 
-      <div class="col-auto"> 
-        <h2>Welcome, {{name}}!</h2> 
-      </div> 
-    </div> 
+<div class="row">
+  <div class="col-auto">
+    <h2>Welcome, {{name}}!</h2>
+  </div>
+</div>
 
-  
 
-  <div class="transparent-search"> 
-    <section> 
-      <div class="search"> 
-        <div> 
-          <label for="manufacturerSelect">Brand:</label> 
-          <select id="manufacturerSelect"> 
-              <option value="">Select Manufacturer</option> 
-          </select> 
-        </div> 
 
-        <div> 
-          <label for="engineType">Enter your engine type:</label> 
-          <input id="engineType" type="text" placeholder="ex. Gas, Electric, Hybrid"> 
-        </div> 
-
-        <div> 
-          <label for="msrp">Enter the MSRP:</label> 
-          <input id="msrp" type="text" placeholder="ex. 25000"> 
-        </div> 
-
-      </div> 
-    </section>    
-    <div> 
-
-    <button id="carSearch">Search</button> 
-
-    </div> 
-    <section id="results"> 
-      <div class="card leftRightMargin"> 
-        <div class="card-content"> 
-          <div class="content"> 
-            <h2>Saved Searches</h2>
-            Lorem ipsum leo risus, porta ac consectetur ac, vestibulum at eros. Donec id elit non mi porta gravida at eget metus. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Cras mattis consectetur purus sit amet fermentum. 
-          </div> 
-        </div> 
-      </div> 
-
-      <div class="search">
-        <div class="card leftRightMargin">
-          <div class="card-content"> 
-            <div class="content"> 
-              Lorem ipsum leo risus, porta ac consectetur ac, vestibulum at eros. Donec id elit non mi porta gravida at eget metus. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Cras mattis consectetur purus sit amet fermentum. 
-            </div> 
-          </div> 
-        </div> 
-
-        <div class="card leftRightMargin"> 
-          <div class="card-content"> 
-            <div class="content"> 
-              Lorem ipsum leo risus, porta ac consectetur ac, vestibulum at eros. Donec id elit non mi porta gravida at eget metus. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Cras mattis consectetur purus sit amet fermentum. 
-            </div> 
-          </div> 
-        </div> 
-
-        <div class="card leftRightMargin">
-          <div class="card-content"> 
-            <div class="content"> 
-              Lorem ipsum leo risus, porta ac consectetur ac, vestibulum at eros. Donec id elit non mi porta gravida at eget metus. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Cras mattis consectetur purus sit amet fermentum. 
-            </div>
-          </div> 
-        </div> 
+<div class="transparent-search">
+  <section>
+    <div class="search">
+      <div>
+        <label for="manufacturerSelect">Brand:</label>
+        <select id="manufacturerSelect">
+          <option value="">Select Manufacturer</option>
+          {{#each manufacturers as | manufacturer | }}
+          <option value="{{manufacturer.manufacturerName}}">{{manufacturer.manufacturerName}}</option>
+          {{/each}}
+        </select>
       </div>
-    </section> 
 
-  </div>  
+      <div>
+        <label for="engineType">Select your engine type:</label>
+        <select name="" id="engineType">
+          <option value="">Select an Option</option>
+          <option value="Gas">Gas</option>
+          <option value="Electric">Electric</option>
+          <option value="Hybrid">Hybrid</option>
+        </select>
+      </div>
 
-<script src="./js/profile.js"></script> 
+      <div>
+        <label for="msrp">Enter the MSRP:</label>
+        <input id="msrp" type="text" placeholder="ex. 25000">
+      </div>
+
+    </div>
+  </section>
+  <div>
+
+    <button id="carSearch">Search</button>
+
+  </div>
+  <section id="results">
+    <div class="card leftRightMargin">
+      <div class="card-content">
+        <div class="content">
+          <h2>Saved Searches</h2>
+          Lorem ipsum leo risus, porta ac consectetur ac, vestibulum at eros. Donec id elit non mi porta gravida at eget
+          metus. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Cras mattis
+          consectetur purus sit amet fermentum.
+        </div>
+      </div>
+    </div>
+
+    <div class="search" id="search">    
+
+    </div>
+  </section>
+
+</div>
+
+<script src="./js/profile.js"></script>
