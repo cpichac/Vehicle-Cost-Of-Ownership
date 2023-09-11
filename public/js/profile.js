@@ -38,10 +38,28 @@ const delButtonHandler = async (event) => {
   }
 };
 
-document
-  .querySelector('.new-project-form')
-  .addEventListener('submit', newFormHandler);
+  const manufacturerSelect = document.getElementById('manufacturerSelect');
 
-document
-  .querySelector('.project-list')
-  .addEventListener('click', delButtonHandler);
+  // Fetch data from the server
+  fetch('/profile')
+    .then((response) => response.json())
+    .then((data) => {
+      console.log(data)
+      data.forEach((manufacturer) => {
+        const option = document.createElement('option');
+        option.value = manufacturer;
+        option.textContent = manufacturer;
+        manufacturerSelect.appendChild(option);
+      });
+    })
+    .catch((error) => {
+      console.error('Error fetching data:', error);
+    });
+
+// document
+//   .querySelector('.new-project-form')
+//   .addEventListener('submit', newFormHandler);
+
+// document
+//   .querySelector('.project-list')
+//   .addEventListener('click', delButtonHandler);
