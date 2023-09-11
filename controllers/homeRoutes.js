@@ -59,11 +59,12 @@ router.get('/profile', withAuth, async (req, res) => {
     });
 
     const user = userData.get({ plain: true });
-
+    const manufacturerData = await Project.findAll();
     res.render('profile', {
       ...user,
       logged_in: true
     });
+    console.log(manufacturerData);
   } catch (err) {
     res.status(500).json(err);
   }
@@ -79,18 +80,6 @@ router.get('/login', (req, res) => {
   res.render('login');
 });
 
-router.get('/profile', async (req, res) => {
-  try {
-    const connection = await pool.getConnection();
-    const [rows, fields] = await connection.query('SELECT manufacturer_name FROM carcost_db.project');
-    connection.release();
-    const manufacturers = rows.map((row) => row.manufacturerName);
 
-    res.json(manufacturers);
-  } catch (error) {
-    console.error('Error fetching data from MySQL:', error);
-    res.status(500).send('Internal Server Error');
-  }
-});
 
 module.exports = router;

@@ -60,10 +60,10 @@ body {
 
 #results {
   display: grid;
-  grid-template-columns: 1fr 1fr 1fr 1fr;
+  grid-template-columns: 1fr 3fr;
 }
 
-#search {
+.search {
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
   text-align: center;
