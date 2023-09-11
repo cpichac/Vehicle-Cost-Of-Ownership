@@ -46,7 +46,7 @@ function handleClick(event) {
     li4.textContent = "Insurance Cost: " + insurance;
     li5.textContent = "Engine Type: " + engineType.value;
     li6.textContent = "Fuel Cost: " + fuel;
-    li7.textContent = "Total Depreciation: " + totalCost;
+    li7.textContent = "Total Cost: " + totalCost;
 
     cardArea.appendChild(card);
     card.appendChild(cardContent);
@@ -95,7 +95,7 @@ function handleClick(event) {
     li4.textContent = "Insurance Cost: " + insurance;
     li5.textContent = "Engine Type: " + engineType.value;
     li6.textContent = "Fuel Cost: " + fuel;
-    li7.textContent = "Total Depreciation: " + totalCost;
+    li7.textContent = "Total Cost: " + totalCost;
 
     cardArea.appendChild(card);
     card.appendChild(cardContent);
@@ -141,7 +141,7 @@ function handleClick(event) {
     li4.textContent = "Insurance Cost: " + insurance;
     li5.textContent = "Engine Type: " + engineType.value;
     li6.textContent = "Fuel Cost: " + fuel;
-    li7.textContent = "Total Depreciation: " + totalCost;
+    li7.textContent = "Total Cost: " + totalCost;
 
     cardArea.appendChild(card);
     card.appendChild(cardContent);
@@ -187,7 +187,7 @@ function handleClick(event) {
     li4.textContent = "Insurance Cost: " + insurance;
     li5.textContent = "Engine Type: " + engineType.value;
     li6.textContent = "Fuel Cost: " + fuel;
-    li7.textContent = "Total Depreciation: " + totalCost;
+    li7.textContent = "Total Cost: " + totalCost;
 
     cardArea.appendChild(card);
     card.appendChild(cardContent);
@@ -233,7 +233,7 @@ function handleClick(event) {
     li4.textContent = "Insurance Cost: " + insurance;
     li5.textContent = "Engine Type: " + engineType.value;
     li6.textContent = "Fuel Cost: " + fuel;
-    li7.textContent = "Total Depreciation: " + totalCost;
+    li7.textContent = "Total Cost: " + totalCost;
 
     cardArea.appendChild(card);
     card.appendChild(cardContent);
@@ -279,7 +279,7 @@ function handleClick(event) {
     li4.textContent = "Insurance Cost: " + insurance;
     li5.textContent = "Engine Type: " + engineType.value;
     li6.textContent = "Fuel Cost: " + fuel;
-    li7.textContent = "Total Depreciation: " + totalCost;
+    li7.textContent = "Total Cost: " + totalCost;
 
     cardArea.appendChild(card);
     card.appendChild(cardContent);
@@ -325,7 +325,7 @@ function handleClick(event) {
     li4.textContent = "Insurance Cost: " + insurance;
     li5.textContent = "Engine Type: " + engineType.value;
     li6.textContent = "Fuel Cost: " + fuel;
-    li7.textContent = "Total Depreciation: " + totalCost;
+    li7.textContent = "Total Cost: " + totalCost;
 
     cardArea.appendChild(card);
     card.appendChild(cardContent);
@@ -371,7 +371,7 @@ function handleClick(event) {
     li4.textContent = "Insurance Cost: " + insurance;
     li5.textContent = "Engine Type: " + engineType.value;
     li6.textContent = "Fuel Cost: " + fuel;
-    li7.textContent = "Total Depreciation: " + totalCost;
+    li7.textContent = "Total Cost: " + totalCost;
 
     cardArea.appendChild(card);
     card.appendChild(cardContent);
@@ -417,7 +417,7 @@ function handleClick(event) {
     li4.textContent = "Insurance Cost: " + insurance;
     li5.textContent = "Engine Type: " + engineType.value;
     li6.textContent = "Fuel Cost: " + fuel;
-    li7.textContent = "Total Depreciation: " + totalCost;
+    li7.textContent = "Total Cost: " + totalCost;
 
     cardArea.appendChild(card);
     card.appendChild(cardContent);
@@ -463,7 +463,7 @@ function handleClick(event) {
     li4.textContent = "Insurance Cost: " + insurance;
     li5.textContent = "Engine Type: " + engineType.value;
     li6.textContent = "Fuel Cost: " + fuel;
-    li7.textContent = "Total Depreciation: " + totalCost;
+    li7.textContent = "Total Cost: " + totalCost;
 
     cardArea.appendChild(card);
     card.appendChild(cardContent);
@@ -509,7 +509,7 @@ function handleClick(event) {
     li4.textContent = "Insurance Cost: " + insurance;
     li5.textContent = "Engine Type: " + engineType.value;
     li6.textContent = "Fuel Cost: " + fuel;
-    li7.textContent = "Total Depreciation: " + totalCost;
+    li7.textContent = "Total Cost: " + totalCost;
 
     cardArea.appendChild(card);
     card.appendChild(cardContent);
@@ -555,7 +555,7 @@ function handleClick(event) {
     li4.textContent = "Insurance Cost: " + insurance;
     li5.textContent = "Engine Type: " + engineType.value;
     li6.textContent = "Fuel Cost: " + fuel;
-    li7.textContent = "Total Depreciation: " + totalCost;
+    li7.textContent = "Total Cost: " + totalCost;
 
     cardArea.appendChild(card);
     card.appendChild(cardContent);
@@ -601,7 +601,7 @@ function handleClick(event) {
     li4.textContent = "Insurance Cost: " + insurance;
     li5.textContent = "Engine Type: " + engineType.value;
     li6.textContent = "Fuel Cost: " + fuel;
-    li7.textContent = "Total Depreciation: " + totalCost;
+    li7.textContent = "Total Cost: " + totalCost;
 
     cardArea.appendChild(card);
     card.appendChild(cardContent);
@@ -647,7 +647,7 @@ function handleClick(event) {
     li4.textContent = "Insurance Cost: " + insurance;
     li5.textContent = "Engine Type: " + engineType.value;
     li6.textContent = "Fuel Cost: " + fuel;
-    li7.textContent = "Total Depreciation: " + totalCost;
+    li7.textContent = "Total Cost: " + totalCost;
 
     cardArea.appendChild(card);
     card.appendChild(cardContent);
@@ -693,7 +693,7 @@ function handleClick(event) {
     li4.textContent = "Insurance Cost: " + insurance;
     li5.textContent = "Engine Type: " + engineType.value;
     li6.textContent = "Fuel Cost: " + fuel;
-    li7.textContent = "Total Depreciation: " + totalCost;
+    li7.textContent = "Total Cost: " + totalCost;
 
     cardArea.appendChild(card);
     card.appendChild(cardContent);
@@ -739,7 +739,7 @@ function handleClick(event) {
     li4.textContent = "Insurance Cost: " + insurance;
     li5.textContent = "Engine Type: " + engineType.value;
     li6.textContent = "Fuel Cost: " + fuel;
-    li7.textContent = "Total Depreciation: " + totalCost;
+    li7.textContent = "Total Cost: " + totalCost;
 
     cardArea.appendChild(card);
     card.appendChild(cardContent);
@@ -785,7 +785,7 @@ function handleClick(event) {
     li4.textContent = "Insurance Cost: " + insurance;
     li5.textContent = "Engine Type: " + engineType.value;
     li6.textContent = "Fuel Cost: " + fuel;
-    li7.textContent = "Total Depreciation: " + totalCost;
+    li7.textContent = "Total Cost: " + totalCost;
 
     cardArea.appendChild(card);
     card.appendChild(cardContent);
@@ -831,7 +831,7 @@ function handleClick(event) {
     li4.textContent = "Insurance Cost: " + insurance;
     li5.textContent = "Engine Type: " + engineType.value;
     li6.textContent = "Fuel Cost: " + fuel;
-    li7.textContent = "Total Depreciation: " + totalCost;
+    li7.textContent = "Total Cost: " + totalCost;
 
     cardArea.appendChild(card);
     card.appendChild(cardContent);
@@ -877,7 +877,7 @@ function handleClick(event) {
     li4.textContent = "Insurance Cost: " + insurance;
     li5.textContent = "Engine Type: " + engineType.value;
     li6.textContent = "Fuel Cost: " + fuel;
-    li7.textContent = "Total Depreciation: " + totalCost;
+    li7.textContent = "Total Cost: " + totalCost;
 
     cardArea.appendChild(card);
     card.appendChild(cardContent);
@@ -923,7 +923,7 @@ function handleClick(event) {
     li4.textContent = "Insurance Cost: " + insurance;
     li5.textContent = "Engine Type: " + engineType.value;
     li6.textContent = "Fuel Cost: " + fuel;
-    li7.textContent = "Total Depreciation: " + totalCost;
+    li7.textContent = "Total Cost: " + totalCost;
 
     cardArea.appendChild(card);
     card.appendChild(cardContent);
@@ -968,7 +968,7 @@ function handleClick(event) {
     li4.textContent = "Insurance Cost: " + insurance;
     li5.textContent = "Engine Type: " + engineType.value;
     li6.textContent = "Fuel Cost: " + fuel;
-    li7.textContent = "Total Depreciation: " + totalCost;
+    li7.textContent = "Total Cost: " + totalCost;
 
     cardArea.appendChild(card);
     card.appendChild(cardContent);
@@ -1014,7 +1014,7 @@ function handleClick(event) {
     li4.textContent = "Insurance Cost: " + insurance;
     li5.textContent = "Engine Type: " + engineType.value;
     li6.textContent = "Fuel Cost: " + fuel;
-    li7.textContent = "Total Depreciation: " + totalCost;
+    li7.textContent = "Total Cost: " + totalCost;
 
     cardArea.appendChild(card);
     card.appendChild(cardContent);
@@ -1060,7 +1060,7 @@ function handleClick(event) {
     li4.textContent = "Insurance Cost: " + insurance;
     li5.textContent = "Engine Type: " + engineType.value;
     li6.textContent = "Fuel Cost: " + fuel;
-    li7.textContent = "Total Depreciation: " + totalCost;
+    li7.textContent = "Total Cost: " + totalCost;
 
     cardArea.appendChild(card);
     card.appendChild(cardContent);
@@ -1106,7 +1106,7 @@ function handleClick(event) {
     li4.textContent = "Insurance Cost: " + insurance;
     li5.textContent = "Engine Type: " + engineType.value;
     li6.textContent = "Fuel Cost: " + fuel;
-    li7.textContent = "Total Depreciation: " + totalCost;
+    li7.textContent = "Total Cost: " + totalCost;
 
     cardArea.appendChild(card);
     card.appendChild(cardContent);
@@ -1152,7 +1152,7 @@ function handleClick(event) {
     li4.textContent = "Insurance Cost: " + insurance;
     li5.textContent = "Engine Type: " + engineType.value;
     li6.textContent = "Fuel Cost: " + fuel;
-    li7.textContent = "Total Depreciation: " + totalCost;
+    li7.textContent = "Total Cost: " + totalCost;
 
     cardArea.appendChild(card);
     card.appendChild(cardContent);
@@ -1198,7 +1198,7 @@ function handleClick(event) {
     li4.textContent = "Insurance Cost: " + insurance;
     li5.textContent = "Engine Type: " + engineType.value;
     li6.textContent = "Fuel Cost: " + fuel;
-    li7.textContent = "Total Depreciation: " + totalCost;
+    li7.textContent = "Total Cost: " + totalCost;
 
     cardArea.appendChild(card);
     card.appendChild(cardContent);
@@ -1244,7 +1244,7 @@ function handleClick(event) {
     li4.textContent = "Insurance Cost: " + insurance;
     li5.textContent = "Engine Type: " + engineType.value;
     li6.textContent = "Fuel Cost: " + fuel;
-    li7.textContent = "Total Depreciation: " + totalCost;
+    li7.textContent = "Total Cost: " + totalCost;
 
     cardArea.appendChild(card);
     card.appendChild(cardContent);
@@ -1290,7 +1290,7 @@ function handleClick(event) {
     li4.textContent = "Insurance Cost: " + insurance;
     li5.textContent = "Engine Type: " + engineType.value;
     li6.textContent = "Fuel Cost: " + fuel;
-    li7.textContent = "Total Depreciation: " + totalCost;
+    li7.textContent = "Total Cost: " + totalCost;
 
     cardArea.appendChild(card);
     card.appendChild(cardContent);
@@ -1336,7 +1336,7 @@ function handleClick(event) {
     li4.textContent = "Insurance Cost: " + insurance;
     li5.textContent = "Engine Type: " + engineType.value;
     li6.textContent = "Fuel Cost: " + fuel;
-    li7.textContent = "Total Depreciation: " + totalCost;
+    li7.textContent = "Total Cost: " + totalCost;
 
     cardArea.appendChild(card);
     card.appendChild(cardContent);
@@ -1382,7 +1382,7 @@ function handleClick(event) {
     li4.textContent = "Insurance Cost: " + insurance;
     li5.textContent = "Engine Type: " + engineType.value;
     li6.textContent = "Fuel Cost: " + fuel;
-    li7.textContent = "Total Depreciation: " + totalCost;
+    li7.textContent = "Total Cost: " + totalCost;
 
     cardArea.appendChild(card);
     card.appendChild(cardContent);
@@ -1428,7 +1428,7 @@ function handleClick(event) {
     li4.textContent = "Insurance Cost: " + insurance;
     li5.textContent = "Engine Type: " + engineType.value;
     li6.textContent = "Fuel Cost: " + fuel;
-    li7.textContent = "Total Depreciation: " + totalCost;
+    li7.textContent = "Total Cost: " + totalCost;
 
     cardArea.appendChild(card);
     card.appendChild(cardContent);
@@ -1474,7 +1474,7 @@ function handleClick(event) {
     li4.textContent = "Insurance Cost: " + insurance;
     li5.textContent = "Engine Type: " + engineType.value;
     li6.textContent = "Fuel Cost: " + fuel;
-    li7.textContent = "Total Depreciation: " + totalCost;
+    li7.textContent = "Total Cost: " + totalCost;
 
     cardArea.appendChild(card);
     card.appendChild(cardContent);
@@ -1520,7 +1520,7 @@ function handleClick(event) {
     li4.textContent = "Insurance Cost: " + insurance;
     li5.textContent = "Engine Type: " + engineType.value;
     li6.textContent = "Fuel Cost: " + fuel;
-    li7.textContent = "Total Depreciation: " + totalCost;
+    li7.textContent = "Total Cost: " + totalCost;
 
     cardArea.appendChild(card);
     card.appendChild(cardContent);
@@ -1566,7 +1566,7 @@ function handleClick(event) {
     li4.textContent = "Insurance Cost: " + insurance;
     li5.textContent = "Engine Type: " + engineType.value;
     li6.textContent = "Fuel Cost: " + fuel;
-    li7.textContent = "Total Depreciation: " + totalCost;
+    li7.textContent = "Total Cost: " + totalCost;
 
     cardArea.appendChild(card);
     card.appendChild(cardContent);
@@ -1612,7 +1612,7 @@ function handleClick(event) {
     li4.textContent = "Insurance Cost: " + insurance;
     li5.textContent = "Engine Type: " + engineType.value;
     li6.textContent = "Fuel Cost: " + fuel;
-    li7.textContent = "Total Depreciation: " + totalCost;
+    li7.textContent = "Total Cost: " + totalCost;
 
     cardArea.appendChild(card);
     card.appendChild(cardContent);
@@ -1658,7 +1658,7 @@ function handleClick(event) {
     li4.textContent = "Insurance Cost: " + insurance;
     li5.textContent = "Engine Type: " + engineType.value;
     li6.textContent = "Fuel Cost: " + fuel;
-    li7.textContent = "Total Depreciation: " + totalCost;
+    li7.textContent = "Total Cost: " + totalCost;
 
     cardArea.appendChild(card);
     card.appendChild(cardContent);
@@ -1704,7 +1704,7 @@ function handleClick(event) {
     li4.textContent = "Insurance Cost: " + insurance;
     li5.textContent = "Engine Type: " + engineType.value;
     li6.textContent = "Fuel Cost: " + fuel;
-    li7.textContent = "Total Depreciation: " + totalCost;
+    li7.textContent = "Total Cost: " + totalCost;
 
     cardArea.appendChild(card);
     card.appendChild(cardContent);
@@ -1750,7 +1750,7 @@ function handleClick(event) {
     li4.textContent = "Insurance Cost: " + insurance;
     li5.textContent = "Engine Type: " + engineType.value;
     li6.textContent = "Fuel Cost: " + fuel;
-    li7.textContent = "Total Depreciation: " + totalCost;
+    li7.textContent = "Total Cost: " + totalCost;
 
     cardArea.appendChild(card);
     card.appendChild(cardContent);
@@ -1797,7 +1797,7 @@ function handleClick(event) {
     li4.textContent = "Insurance Cost: " + insurance;
     li5.textContent = "Engine Type: " + engineType.value;
     li6.textContent = "Fuel Cost: " + fuel;
-    li7.textContent = "Total Depreciation: " + totalCost;
+    li7.textContent = "Total Cost: " + totalCost;
 
     cardArea.appendChild(card);
     card.appendChild(cardContent);
@@ -1843,7 +1843,7 @@ function handleClick(event) {
     li4.textContent = "Insurance Cost: " + insurance;
     li5.textContent = "Engine Type: " + engineType.value;
     li6.textContent = "Fuel Cost: " + fuel;
-    li7.textContent = "Total Depreciation: " + totalCost;
+    li7.textContent = "Total Cost: " + totalCost;
 
     cardArea.appendChild(card);
     card.appendChild(cardContent);
@@ -1889,7 +1889,7 @@ function handleClick(event) {
     li4.textContent = "Insurance Cost: " + insurance;
     li5.textContent = "Engine Type: " + engineType.value;
     li6.textContent = "Fuel Cost: " + fuel;
-    li7.textContent = "Total Depreciation: " + totalCost;
+    li7.textContent = "Total Cost: " + totalCost;
 
     cardArea.appendChild(card);
     card.appendChild(cardContent);
@@ -1935,7 +1935,7 @@ function handleClick(event) {
     li4.textContent = "Insurance Cost: " + insurance;
     li5.textContent = "Engine Type: " + engineType.value;
     li6.textContent = "Fuel Cost: " + fuel;
-    li7.textContent = "Total Depreciation: " + totalCost;
+    li7.textContent = "Total Cost: " + totalCost;
 
     cardArea.appendChild(card);
     card.appendChild(cardContent);
@@ -1981,7 +1981,7 @@ function handleClick(event) {
     li4.textContent = "Insurance Cost: " + insurance;
     li5.textContent = "Engine Type: " + engineType.value;
     li6.textContent = "Fuel Cost: " + fuel;
-    li7.textContent = "Total Depreciation: " + totalCost;
+    li7.textContent = "Total Cost: " + totalCost;
 
     cardArea.appendChild(card);
     card.appendChild(cardContent);
@@ -2027,7 +2027,7 @@ function handleClick(event) {
     li4.textContent = "Insurance Cost: " + insurance;
     li5.textContent = "Engine Type: " + engineType.value;
     li6.textContent = "Fuel Cost: " + fuel;
-    li7.textContent = "Total Depreciation: " + totalCost;
+    li7.textContent = "Total Cost: " + totalCost;
 
     cardArea.appendChild(card);
     card.appendChild(cardContent);
@@ -2073,7 +2073,7 @@ function handleClick(event) {
     li4.textContent = "Insurance Cost: " + insurance;
     li5.textContent = "Engine Type: " + engineType.value;
     li6.textContent = "Fuel Cost: " + fuel;
-    li7.textContent = "Total Depreciation: " + totalCost;
+    li7.textContent = "Total Cost: " + totalCost;
 
     cardArea.appendChild(card);
     card.appendChild(cardContent);
@@ -2119,7 +2119,7 @@ function handleClick(event) {
     li4.textContent = "Insurance Cost: " + insurance;
     li5.textContent = "Engine Type: " + engineType.value;
     li6.textContent = "Fuel Cost: " + fuel;
-    li7.textContent = "Total Depreciation: " + totalCost;
+    li7.textContent = "Total Cost: " + totalCost;
 
     cardArea.appendChild(card);
     card.appendChild(cardContent);
@@ -2165,7 +2165,7 @@ function handleClick(event) {
     li4.textContent = "Insurance Cost: " + insurance;
     li5.textContent = "Engine Type: " + engineType.value;
     li6.textContent = "Fuel Cost: " + fuel;
-    li7.textContent = "Total Depreciation: " + totalCost;
+    li7.textContent = "Total Cost: " + totalCost;
 
     cardArea.appendChild(card);
     card.appendChild(cardContent);
@@ -2211,7 +2211,7 @@ function handleClick(event) {
     li4.textContent = "Insurance Cost: " + insurance;
     li5.textContent = "Engine Type: " + engineType.value;
     li6.textContent = "Fuel Cost: " + fuel;
-    li7.textContent = "Total Depreciation: " + totalCost;
+    li7.textContent = "Total Cost: " + totalCost;
 
     cardArea.appendChild(card);
     card.appendChild(cardContent);
@@ -2257,7 +2257,7 @@ function handleClick(event) {
     li4.textContent = "Insurance Cost: " + insurance;
     li5.textContent = "Engine Type: " + engineType.value;
     li6.textContent = "Fuel Cost: " + fuel;
-    li7.textContent = "Total Depreciation: " + totalCost;
+    li7.textContent = "Total Cost: " + totalCost;
 
     cardArea.appendChild(card);
     card.appendChild(cardContent);
@@ -2303,7 +2303,7 @@ function handleClick(event) {
     li4.textContent = "Insurance Cost: " + insurance;
     li5.textContent = "Engine Type: " + engineType.value;
     li6.textContent = "Fuel Cost: " + fuel;
-    li7.textContent = "Total Depreciation: " + totalCost;
+    li7.textContent = "Total Cost: " + totalCost;
 
     cardArea.appendChild(card);
     card.appendChild(cardContent);
@@ -2349,7 +2349,7 @@ function handleClick(event) {
     li4.textContent = "Insurance Cost: " + insurance;
     li5.textContent = "Engine Type: " + engineType.value;
     li6.textContent = "Fuel Cost: " + fuel;
-    li7.textContent = "Total Depreciation: " + totalCost;
+    li7.textContent = "Total Cost: " + totalCost;
 
     cardArea.appendChild(card);
     card.appendChild(cardContent);
@@ -2395,7 +2395,7 @@ function handleClick(event) {
     li4.textContent = "Insurance Cost: " + insurance;
     li5.textContent = "Engine Type: " + engineType.value;
     li6.textContent = "Fuel Cost: " + fuel;
-    li7.textContent = "Total Depreciation: " + totalCost;
+    li7.textContent = "Total Cost: " + totalCost;
 
     cardArea.appendChild(card);
     card.appendChild(cardContent);
@@ -2441,7 +2441,7 @@ function handleClick(event) {
     li4.textContent = "Insurance Cost: " + insurance;
     li5.textContent = "Engine Type: " + engineType.value;
     li6.textContent = "Fuel Cost: " + fuel;
-    li7.textContent = "Total Depreciation: " + totalCost;
+    li7.textContent = "Total Cost: " + totalCost;
 
     cardArea.appendChild(card);
     card.appendChild(cardContent);
@@ -2487,7 +2487,7 @@ function handleClick(event) {
     li4.textContent = "Insurance Cost: " + insurance;
     li5.textContent = "Engine Type: " + engineType.value;
     li6.textContent = "Fuel Cost: " + fuel;
-    li7.textContent = "Total Depreciation: " + totalCost;
+    li7.textContent = "Total Cost: " + totalCost;
 
     cardArea.appendChild(card);
     card.appendChild(cardContent);
@@ -2533,7 +2533,7 @@ function handleClick(event) {
     li4.textContent = "Insurance Cost: " + insurance;
     li5.textContent = "Engine Type: " + engineType.value;
     li6.textContent = "Fuel Cost: " + fuel;
-    li7.textContent = "Total Depreciation: " + totalCost;
+    li7.textContent = "Total Cost: " + totalCost;
 
     cardArea.appendChild(card);
     card.appendChild(cardContent);
@@ -2579,7 +2579,7 @@ function handleClick(event) {
     li4.textContent = "Insurance Cost: " + insurance;
     li5.textContent = "Engine Type: " + engineType.value;
     li6.textContent = "Fuel Cost: " + fuel;
-    li7.textContent = "Total Depreciation: " + totalCost;
+    li7.textContent = "Total Cost: " + totalCost;
 
     cardArea.appendChild(card);
     card.appendChild(cardContent);
@@ -2625,7 +2625,7 @@ function handleClick(event) {
     li4.textContent = "Insurance Cost: " + insurance;
     li5.textContent = "Engine Type: " + engineType.value;
     li6.textContent = "Fuel Cost: " + fuel;
-    li7.textContent = "Total Depreciation: " + totalCost;
+    li7.textContent = "Total Cost: " + totalCost;
 
     cardArea.appendChild(card);
     card.appendChild(cardContent);
@@ -2671,7 +2671,7 @@ function handleClick(event) {
     li4.textContent = "Insurance Cost: " + insurance;
     li5.textContent = "Engine Type: " + engineType.value;
     li6.textContent = "Fuel Cost: " + fuel;
-    li7.textContent = "Total Depreciation: " + totalCost;
+    li7.textContent = "Total Cost: " + totalCost;
 
     cardArea.appendChild(card);
     card.appendChild(cardContent);
@@ -2717,7 +2717,7 @@ function handleClick(event) {
     li4.textContent = "Insurance Cost: " + insurance;
     li5.textContent = "Engine Type: " + engineType.value;
     li6.textContent = "Fuel Cost: " + fuel;
-    li7.textContent = "Total Depreciation: " + totalCost;
+    li7.textContent = "Total Cost: " + totalCost;
 
     cardArea.appendChild(card);
     card.appendChild(cardContent);
@@ -2763,7 +2763,7 @@ function handleClick(event) {
     li4.textContent = "Insurance Cost: " + insurance;
     li5.textContent = "Engine Type: " + engineType.value;
     li6.textContent = "Fuel Cost: " + fuel;
-    li7.textContent = "Total Depreciation: " + totalCost;
+    li7.textContent = "Total Cost: " + totalCost;
 
     cardArea.appendChild(card);
     card.appendChild(cardContent);
@@ -2809,7 +2809,7 @@ function handleClick(event) {
     li4.textContent = "Insurance Cost: " + insurance;
     li5.textContent = "Engine Type: " + engineType.value;
     li6.textContent = "Fuel Cost: " + fuel;
-    li7.textContent = "Total Depreciation: " + totalCost;
+    li7.textContent = "Total Cost: " + totalCost;
 
     cardArea.appendChild(card);
     card.appendChild(cardContent);
@@ -2855,7 +2855,7 @@ function handleClick(event) {
     li4.textContent = "Insurance Cost: " + insurance;
     li5.textContent = "Engine Type: " + engineType.value;
     li6.textContent = "Fuel Cost: " + fuel;
-    li7.textContent = "Total Depreciation: " + totalCost;
+    li7.textContent = "Total Cost: " + totalCost;
 
     cardArea.appendChild(card);
     card.appendChild(cardContent);
@@ -2901,7 +2901,7 @@ function handleClick(event) {
     li4.textContent = "Insurance Cost: " + insurance;
     li5.textContent = "Engine Type: " + engineType.value;
     li6.textContent = "Fuel Cost: " + fuel;
-    li7.textContent = "Total Depreciation: " + totalCost;
+    li7.textContent = "Total Cost: " + totalCost;
 
     cardArea.appendChild(card);
     card.appendChild(cardContent);
@@ -2947,7 +2947,7 @@ function handleClick(event) {
     li4.textContent = "Insurance Cost: " + insurance;
     li5.textContent = "Engine Type: " + engineType.value;
     li6.textContent = "Fuel Cost: " + fuel;
-    li7.textContent = "Total Depreciation: " + totalCost;
+    li7.textContent = "Total Cost: " + totalCost;
 
     cardArea.appendChild(card);
     card.appendChild(cardContent);
@@ -2993,7 +2993,7 @@ function handleClick(event) {
     li4.textContent = "Insurance Cost: " + insurance;
     li5.textContent = "Engine Type: " + engineType.value;
     li6.textContent = "Fuel Cost: " + fuel;
-    li7.textContent = "Total Depreciation: " + totalCost;
+    li7.textContent = "Total Cost: " + totalCost;
 
     cardArea.appendChild(card);
     card.appendChild(cardContent);
@@ -3039,7 +3039,7 @@ function handleClick(event) {
     li4.textContent = "Insurance Cost: " + insurance;
     li5.textContent = "Engine Type: " + engineType.value;
     li6.textContent = "Fuel Cost: " + fuel;
-    li7.textContent = "Total Depreciation: " + totalCost;
+    li7.textContent = "Total Cost: " + totalCost;
 
     cardArea.appendChild(card);
     card.appendChild(cardContent);
@@ -3085,7 +3085,7 @@ function handleClick(event) {
     li4.textContent = "Insurance Cost: " + insurance;
     li5.textContent = "Engine Type: " + engineType.value;
     li6.textContent = "Fuel Cost: " + fuel;
-    li7.textContent = "Total Depreciation: " + totalCost;
+    li7.textContent = "Total Cost: " + totalCost;
 
     cardArea.appendChild(card);
     card.appendChild(cardContent);
@@ -3131,7 +3131,7 @@ function handleClick(event) {
     li4.textContent = "Insurance Cost: " + insurance;
     li5.textContent = "Engine Type: " + engineType.value;
     li6.textContent = "Fuel Cost: " + fuel;
-    li7.textContent = "Total Depreciation: " + totalCost;
+    li7.textContent = "Total Cost: " + totalCost;
 
     cardArea.appendChild(card);
     card.appendChild(cardContent);
@@ -3177,7 +3177,7 @@ function handleClick(event) {
     li4.textContent = "Insurance Cost: " + insurance;
     li5.textContent = "Engine Type: " + engineType.value;
     li6.textContent = "Fuel Cost: " + fuel;
-    li7.textContent = "Total Depreciation: " + totalCost;
+    li7.textContent = "Total Cost: " + totalCost;
 
     cardArea.appendChild(card);
     card.appendChild(cardContent);
@@ -3223,7 +3223,7 @@ function handleClick(event) {
     li4.textContent = "Insurance Cost: " + insurance;
     li5.textContent = "Engine Type: " + engineType.value;
     li6.textContent = "Fuel Cost: " + fuel;
-    li7.textContent = "Total Depreciation: " + totalCost;
+    li7.textContent = "Total Cost: " + totalCost;
 
     cardArea.appendChild(card);
     card.appendChild(cardContent);
@@ -3269,7 +3269,7 @@ function handleClick(event) {
     li4.textContent = "Insurance Cost: " + insurance;
     li5.textContent = "Engine Type: " + engineType.value;
     li6.textContent = "Fuel Cost: " + fuel;
-    li7.textContent = "Total Depreciation: " + totalCost;
+    li7.textContent = "Total Cost: " + totalCost;
 
     cardArea.appendChild(card);
     card.appendChild(cardContent);
@@ -3315,7 +3315,7 @@ function handleClick(event) {
     li4.textContent = "Insurance Cost: " + insurance;
     li5.textContent = "Engine Type: " + engineType.value;
     li6.textContent = "Fuel Cost: " + fuel;
-    li7.textContent = "Total Depreciation: " + totalCost;
+    li7.textContent = "Total Cost: " + totalCost;
 
     cardArea.appendChild(card);
     card.appendChild(cardContent);
@@ -3361,7 +3361,7 @@ function handleClick(event) {
     li4.textContent = "Insurance Cost: " + insurance;
     li5.textContent = "Engine Type: " + engineType.value;
     li6.textContent = "Fuel Cost: " + fuel;
-    li7.textContent = "Total Depreciation: " + totalCost;
+    li7.textContent = "Total Cost: " + totalCost;
 
     cardArea.appendChild(card);
     card.appendChild(cardContent);
@@ -3407,7 +3407,7 @@ function handleClick(event) {
     li4.textContent = "Insurance Cost: " + insurance;
     li5.textContent = "Engine Type: " + engineType.value;
     li6.textContent = "Fuel Cost: " + fuel;
-    li7.textContent = "Total Depreciation: " + totalCost;
+    li7.textContent = "Total Cost: " + totalCost;
 
     cardArea.appendChild(card);
     card.appendChild(cardContent);
@@ -3453,7 +3453,7 @@ function handleClick(event) {
     li4.textContent = "Insurance Cost: " + insurance;
     li5.textContent = "Engine Type: " + engineType.value;
     li6.textContent = "Fuel Cost: " + fuel;
-    li7.textContent = "Total Depreciation: " + totalCost;
+    li7.textContent = "Total Cost: " + totalCost;
 
     cardArea.appendChild(card);
     card.appendChild(cardContent);
@@ -3499,7 +3499,7 @@ function handleClick(event) {
     li4.textContent = "Insurance Cost: " + insurance;
     li5.textContent = "Engine Type: " + engineType.value;
     li6.textContent = "Fuel Cost: " + fuel;
-    li7.textContent = "Total Depreciation: " + totalCost;
+    li7.textContent = "Total Cost: " + totalCost;
 
     cardArea.appendChild(card);
     card.appendChild(cardContent);
@@ -3545,7 +3545,7 @@ function handleClick(event) {
     li4.textContent = "Insurance Cost: " + insurance;
     li5.textContent = "Engine Type: " + engineType.value;
     li6.textContent = "Fuel Cost: " + fuel;
-    li7.textContent = "Total Depreciation: " + totalCost;
+    li7.textContent = "Total Cost: " + totalCost;
 
     cardArea.appendChild(card);
     card.appendChild(cardContent);
@@ -3591,7 +3591,7 @@ function handleClick(event) {
     li4.textContent = "Insurance Cost: " + insurance;
     li5.textContent = "Engine Type: " + engineType.value;
     li6.textContent = "Fuel Cost: " + fuel;
-    li7.textContent = "Total Depreciation: " + totalCost;
+    li7.textContent = "Total Cost: " + totalCost;
 
     cardArea.appendChild(card);
     card.appendChild(cardContent);
@@ -3637,7 +3637,7 @@ function handleClick(event) {
     li4.textContent = "Insurance Cost: " + insurance;
     li5.textContent = "Engine Type: " + engineType.value;
     li6.textContent = "Fuel Cost: " + fuel;
-    li7.textContent = "Total Depreciation: " + totalCost;
+    li7.textContent = "Total Cost: " + totalCost;
 
     cardArea.appendChild(card);
     card.appendChild(cardContent);
@@ -3683,7 +3683,7 @@ function handleClick(event) {
     li4.textContent = "Insurance Cost: " + insurance;
     li5.textContent = "Engine Type: " + engineType.value;
     li6.textContent = "Fuel Cost: " + fuel;
-    li7.textContent = "Total Depreciation: " + totalCost;
+    li7.textContent = "Total Cost: " + totalCost;
 
     cardArea.appendChild(card);
     card.appendChild(cardContent);
@@ -3729,7 +3729,7 @@ function handleClick(event) {
     li4.textContent = "Insurance Cost: " + insurance;
     li5.textContent = "Engine Type: " + engineType.value;
     li6.textContent = "Fuel Cost: " + fuel;
-    li7.textContent = "Total Depreciation: " + totalCost;
+    li7.textContent = "Total Cost: " + totalCost;
 
     cardArea.appendChild(card);
     card.appendChild(cardContent);
@@ -3775,7 +3775,7 @@ function handleClick(event) {
     li4.textContent = "Insurance Cost: " + insurance;
     li5.textContent = "Engine Type: " + engineType.value;
     li6.textContent = "Fuel Cost: " + fuel;
-    li7.textContent = "Total Depreciation: " + totalCost;
+    li7.textContent = "Total Cost: " + totalCost;
 
     cardArea.appendChild(card);
     card.appendChild(cardContent);
@@ -3821,7 +3821,7 @@ function handleClick(event) {
     li4.textContent = "Insurance Cost: " + insurance;
     li5.textContent = "Engine Type: " + engineType.value;
     li6.textContent = "Fuel Cost: " + fuel;
-    li7.textContent = "Total Depreciation: " + totalCost;
+    li7.textContent = "Total Cost: " + totalCost;
 
     cardArea.appendChild(card);
     card.appendChild(cardContent);
@@ -3867,7 +3867,7 @@ function handleClick(event) {
     li4.textContent = "Insurance Cost: " + insurance;
     li5.textContent = "Engine Type: " + engineType.value;
     li6.textContent = "Fuel Cost: " + fuel;
-    li7.textContent = "Total Depreciation: " + totalCost;
+    li7.textContent = "Total Cost: " + totalCost;
 
     cardArea.appendChild(card);
     card.appendChild(cardContent);
@@ -3913,7 +3913,7 @@ function handleClick(event) {
     li4.textContent = "Insurance Cost: " + insurance;
     li5.textContent = "Engine Type: " + engineType.value;
     li6.textContent = "Fuel Cost: " + fuel;
-    li7.textContent = "Total Depreciation: " + totalCost;
+    li7.textContent = "Total Cost: " + totalCost;
 
     cardArea.appendChild(card);
     card.appendChild(cardContent);
@@ -3959,7 +3959,7 @@ function handleClick(event) {
     li4.textContent = "Insurance Cost: " + insurance;
     li5.textContent = "Engine Type: " + engineType.value;
     li6.textContent = "Fuel Cost: " + fuel;
-    li7.textContent = "Total Depreciation: " + totalCost;
+    li7.textContent = "Total Cost: " + totalCost;
 
     cardArea.appendChild(card);
     card.appendChild(cardContent);
@@ -4005,7 +4005,7 @@ function handleClick(event) {
     li4.textContent = "Insurance Cost: " + insurance;
     li5.textContent = "Engine Type: " + engineType.value;
     li6.textContent = "Fuel Cost: " + fuel;
-    li7.textContent = "Total Depreciation: " + totalCost;
+    li7.textContent = "Total Cost: " + totalCost;
 
     cardArea.appendChild(card);
     card.appendChild(cardContent);
@@ -4051,7 +4051,7 @@ function handleClick(event) {
     li4.textContent = "Insurance Cost: " + insurance;
     li5.textContent = "Engine Type: " + engineType.value;
     li6.textContent = "Fuel Cost: " + fuel;
-    li7.textContent = "Total Depreciation: " + totalCost;
+    li7.textContent = "Total Cost: " + totalCost;
 
     cardArea.appendChild(card);
     card.appendChild(cardContent);
@@ -4097,7 +4097,7 @@ function handleClick(event) {
     li4.textContent = "Insurance Cost: " + insurance;
     li5.textContent = "Engine Type: " + engineType.value;
     li6.textContent = "Fuel Cost: " + fuel;
-    li7.textContent = "Total Depreciation: " + totalCost;
+    li7.textContent = "Total Cost: " + totalCost;
 
     cardArea.appendChild(card);
     card.appendChild(cardContent);
@@ -4143,7 +4143,7 @@ function handleClick(event) {
     li4.textContent = "Insurance Cost: " + insurance;
     li5.textContent = "Engine Type: " + engineType.value;
     li6.textContent = "Fuel Cost: " + fuel;
-    li7.textContent = "Total Depreciation: " + totalCost;
+    li7.textContent = "Total Cost: " + totalCost;
 
     cardArea.appendChild(card);
     card.appendChild(cardContent);
