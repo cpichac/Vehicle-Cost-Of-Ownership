@@ -114,9 +114,9 @@ body {
 }
 
 .list {
-  list-style-type: none;
+  list-style: none;
 }
 
-ul {
-  list-style-type: none;
+li {
+  list-style: none;
 }
