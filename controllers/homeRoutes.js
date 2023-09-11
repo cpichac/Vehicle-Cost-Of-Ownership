@@ -59,11 +59,12 @@ router.get('/profile', withAuth, async (req, res) => {
     });
 
     const user = userData.get({ plain: true });
-
+    const manufacturerData = await Project.findAll();
     res.render('profile', {
       ...user,
       logged_in: true
     });
+    console.log(manufacturerData);
   } catch (err) {
     res.status(500).json(err);
   }
@@ -78,5 +79,7 @@ router.get('/login', (req, res) => {
 
   res.render('login');
 });
+
+
 
 module.exports = router;

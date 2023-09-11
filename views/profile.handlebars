@@ -1,48 +1,76 @@
-  <div class="row">
-    <div class="col-auto">
-      <h2>Welcome, {{name}}!</h2>
-    </div>
-  </div>
+    
+    <div class="row"> 
+      <div class="col-auto"> 
+        <h2>Welcome, {{name}}!</h2> 
+      </div> 
+    </div> 
 
-  <div id="search-container">
-    <section>
-      <div id="search">
-        <div>
-          <label for="products">Select a product:</label>
-          <select id="products">
-              <option value="" disabled selected>Select a product</option>
-          </select>
-        </div>
-        <div>
-          <label for="products">Select a product:</label>
-          <select id="products">
-              <option value="" disabled selected>Select a product</option>
-          </select>
-        </div>
-        <div>
-          <label for="products">Select a product:</label>
-          <select id="products">
-              <option value="" disabled selected>Select a product</option>
-          </select>
-        </div>
-      </div>
-      <div>
-      <button>Search</button>
-      </div>
-    </section>
+  
 
-    <div id="results">
-      <div id="saved-search">
-        <h3>Saved Searches</h3>
-        <ul>
-          <li>test</li>
-          <li>test</li>
-          <li>test</li>
-          <li>test</li>
-          <li>test</li>
-        </ul>
-      </div>
-    </div>
-  </div>
+  <div class="transparent-search"> 
+    <section> 
+      <div class="search"> 
+        <div> 
+          <label for="manufacturerSelect">Brand:</label> 
+          <select id="manufacturerSelect"> 
+              <option value="">Select Manufacturer</option> 
+          </select> 
+        </div> 
 
-<script src="./js/profile.js"></script>
+        <div> 
+          <label for="engineType">Enter your engine type:</label> 
+          <input id="engineType" type="text" placeholder="ex. Gas, Electric, Hybrid"> 
+        </div> 
+
+        <div> 
+          <label for="msrp">Enter the MSRP:</label> 
+          <input id="msrp" type="text" placeholder="ex. 25000"> 
+        </div> 
+
+      </div> 
+    </section>    
+    <div> 
+
+    <button id="carSearch">Search</button> 
+
+    </div> 
+    <section id="results"> 
+      <div class="card leftRightMargin"> 
+        <div class="card-content"> 
+          <div class="content"> 
+            <h2>Saved Searches</h2>
+            Lorem ipsum leo risus, porta ac consectetur ac, vestibulum at eros. Donec id elit non mi porta gravida at eget metus. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Cras mattis consectetur purus sit amet fermentum. 
+          </div> 
+        </div> 
+      </div> 
+
+      <div class="search">
+        <div class="card leftRightMargin">
+          <div class="card-content"> 
+            <div class="content"> 
+              Lorem ipsum leo risus, porta ac consectetur ac, vestibulum at eros. Donec id elit non mi porta gravida at eget metus. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Cras mattis consectetur purus sit amet fermentum. 
+            </div> 
+          </div> 
+        </div> 
+
+        <div class="card leftRightMargin"> 
+          <div class="card-content"> 
+            <div class="content"> 
+              Lorem ipsum leo risus, porta ac consectetur ac, vestibulum at eros. Donec id elit non mi porta gravida at eget metus. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Cras mattis consectetur purus sit amet fermentum. 
+            </div> 
+          </div> 
+        </div> 
+
+        <div class="card leftRightMargin">
+          <div class="card-content"> 
+            <div class="content"> 
+              Lorem ipsum leo risus, porta ac consectetur ac, vestibulum at eros. Donec id elit non mi porta gravida at eget metus. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Cras mattis consectetur purus sit amet fermentum. 
+            </div>
+          </div> 
+        </div> 
+      </div>
+    </section> 
+
+  </div>  
+
+<script src="./js/profile.js"></script> 
